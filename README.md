@@ -1,4 +1,4 @@
-# Assignment1_
+# Assignment1_Group12
 🎧🧠 Audio Codec Project – Modular Hearing Aid Compression
 🎯 Project Description
 This project was developed as part of a course assignment on audio compression and perceptual signal processing. Our team selected the Modular Hearing Aid Codec, simulating WDRC (Wide Dynamic Range Compression) behavior, to implement and evaluate compression techniques targeted at speech clarity enhancement, commonly used in assistive listening devices.
